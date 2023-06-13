@@ -23,19 +23,19 @@ For this we have performed three main tasks:
 
 **Files:**
 
-* [Whale Analysis Starter Code](Starter_Code/whale_analysis.ipynb)
+* [Whale Analysis](whale_analysis.ipynb)
 
-* [algo_returns.csv](Starter_Code/Resources/algo_returns.csv)
+* [algo_returns.csv](Resources/algo_returns.csv)
 
-* [otex_historical.csv](Starter_Code/Resources/otex_historical.csv)
+* [otex_historical.csv](Resources/otex_historical.csv)
 
-* [sp_tsx_history.csv](Starter_Code/Resources/sp_tsx_history.csv)
+* [sp_tsx_history.csv](Resources/sp_tsx_history.csv)
 
-* [l_historical.csv](Starter_Code/Resources/l_historical.csv)
+* [l_historical.csv](Resources/l_historical.csv)
 
-* [shop_historical.csv](Starter_Code/Resources/shop_historical.csv)
+* [shop_historical.csv](Resources/shop_historical.csv)
 
-* [whale_returns.csv](Starter_Code/Resources/whale_returns.csv)
+* [whale_returns.csv](Resources/whale_returns.csv)
 
 ### Prepare the Data
 
