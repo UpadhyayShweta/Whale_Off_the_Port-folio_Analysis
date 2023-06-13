@@ -1,8 +1,5 @@
 # Whale_Off_the_Port-folio_Analysis
 
-
-![Portfolio Analysis](Resources/portfolio-analysis.png)
-
 ## Background
 
 Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
